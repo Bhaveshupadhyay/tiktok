@@ -1,6 +1,6 @@
 {
-  "videos" : [
-    "gtwthsBfGWbK101yxOm6jCQi0Kn1" : [
+  "videos" : {
+    "gtwthsBfGWbK101yxOm6jCQi0Kn1" : {
       "Abc" : {
         "likes" : "1002",
         "videoUrl" : "https://vimeo.com/327030464"
@@ -9,12 +9,12 @@
         "likes" : "203",
         "videoUrl" : "https://vimeo.com/153661547"
       }
-    ],
-    "p21ADwsUwDe90ILy8jmIA39isH63" : [
+    },
+    "p21ADwsUwDe90ILy8jmIA39isH63" : {
       "Subscribe And Like" : {
         "likes" : "1",
         "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/tiktok-ea022.appspot.com/o/videos%2Fp21ADwsUwDe90ILy8jmIA39isH63%2FSubscribe%20And%20Like?alt=media&token=4c8189ac-d788-41d0-bc04-24fe35041c38"
       }
-    ]
-  ]
+    }
+  }
 }
