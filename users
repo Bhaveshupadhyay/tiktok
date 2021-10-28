@@ -1,0 +1,47 @@
+{
+  "users" : {
+    "cRzTvSUqR1dmrqVkF9TqWwbHnlD3" : {
+      "followers" : {
+        "gtwthsBfGWbK101yxOm6jCQi0Kn1" : ""
+      },
+      "id" : "bu",
+      "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
+      "username" : "Bhavesh Upadhyay"
+    },
+    "gtwthsBfGWbK101yxOm6jCQi0Kn1" : {
+      "following" : {
+        "cRzTvSUqR1dmrqVkF9TqWwbHnlD3" : "",
+        "owewu838hdd89djhlvn" : "",
+        "p21ADwsUwDe90ILy8jmIA39isH63" : "",
+        "rui89wDe90ILy8jmyy8789y" : ""
+      },
+      "id" : "zayn123",
+      "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
+      "username" : "zayn"
+    },
+    "owewu838hdd89djhlvn" : {
+      "followers" : {
+        "gtwthsBfGWbK101yxOm6jCQi0Kn1" : ""
+      },
+      "id" : "iambu",
+      "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
+      "username" : "bu"
+    },
+    "p21ADwsUwDe90ILy8jmIA39isH63" : {
+      "followers" : {
+        "gtwthsBfGWbK101yxOm6jCQi0Kn1" : ""
+      },
+      "id" : "iambh",
+      "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
+      "username" : "bu"
+    },
+    "rui89wDe90ILy8jmyy8789y" : {
+      "followers" : {
+        "gtwthsBfGWbK101yxOm6jCQi0Kn1" : ""
+      },
+      "id" : "iamabcd",
+      "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
+      "username" : "bu"
+    }
+  }
+}
