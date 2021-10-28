@@ -1,5 +1,5 @@
 {
-  "users" : {
+  "users" : [
     "cRzTvSUqR1dmrqVkF9TqWwbHnlD3" : {
       "followers" : {
         "gtwthsBfGWbK101yxOm6jCQi0Kn1" : ""
@@ -43,5 +43,5 @@
       "image" : "https://todaybirthday.in/wp-content/uploads/2019/06/Zayn-Malik-7infi.jpg",
       "username" : "bu"
     }
-  }
+ ]
 }
