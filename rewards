@@ -1,4 +1,5 @@
 [
+{
   {
   "image":"https://ucontent.prdg.io/img/prizes/4/image20256.jpg",
   "name":"Amazon Pay Gift Card",
@@ -26,5 +27,6 @@
   "image":"https://imgd.aeplcdn.com/0x0/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg",
   "name":"Car",
   "points":"500000"
+  }
   }
 ]
