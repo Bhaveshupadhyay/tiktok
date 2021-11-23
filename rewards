@@ -1,27 +1,30 @@
 [
   {
+  "image":"https://ucontent.prdg.io/img/prizes/4/image20256.jpg",
+  "name":"Amazon Pay Gift Card",
+  "points":"5000"
+  },
+  {
+  "image":"https://m.media-amazon.com/images/I/71zny7BTRlL._AC_SL1500_.jpg",
+  "name":"Apple Airpods",
+  "points":"20000"
+  },
+  {
   "image":"https://d28i4xct2kl5lp.cloudfront.net/product_images/None_cfb19cc7-4b39-467a-89cc-3a243e44ddb3.jpg",
   "name":"iphone",
-  "points":"5000"
+  "points":"50000"
   },
   {
   "image":"https://cdn.wccftech.com/wp-content/uploads/2020/11/M1-MacBook-Air-1.jpg",
   "name":"MacBook",
-  "points":"5000"
+  "points":"100000"
   },
-  {
-  "image":"https://d28i4xct2kl5lp.cloudfront.net/product_images/None_cfb19cc7-4b39-467a-89cc-3a243e44ddb3.jpg",
-  "name":"iphone",
-  "points":"5000"
+  "image":"https://images.carandbike.com/bike-images/large/ktm/rc-200/ktm-rc-200.jpg",
+  "name":"Ktm",
+  "points":"200000"
   },
-  {
-  "image":"https://d28i4xct2kl5lp.cloudfront.net/product_images/None_cfb19cc7-4b39-467a-89cc-3a243e44ddb3.jpg",
-  "name":"iphone",
-  "points":"5000"
-  },
-  {
-  "image":"https://d28i4xct2kl5lp.cloudfront.net/product_images/None_cfb19cc7-4b39-467a-89cc-3a243e44ddb3.jpg",
-  "name":"iphone",
-  "points":"5000"
+  "image":"https://imgd.aeplcdn.com/0x0/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg",
+  "name":"Car",
+  "points":"500000"
   }
 ]
