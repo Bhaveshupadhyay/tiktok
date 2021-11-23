@@ -1,5 +1,4 @@
 [
-{
   {
   "image":"https://ucontent.prdg.io/img/prizes/4/image20256.jpg",
   "name":"Amazon Pay Gift Card",
@@ -20,13 +19,14 @@
   "name":"MacBook",
   "points":"100000"
   },
+  {
   "image":"https://images.carandbike.com/bike-images/large/ktm/rc-200/ktm-rc-200.jpg",
   "name":"Ktm",
   "points":"200000"
   },
+  {
   "image":"https://imgd.aeplcdn.com/0x0/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg",
   "name":"Car",
   "points":"500000"
-  }
   }
 ]
